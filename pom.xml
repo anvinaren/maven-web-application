@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>kingfisher Releases Nexus Repository</name>
+	      <url>http://65.0.138.197:8081/repository/kingfisher-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>kingfisher Snapshot Nexus Repository </name>
+	      <url>http://65.0.138.197:8081/repository/kingfisher-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
